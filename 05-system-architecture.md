@@ -9,3 +9,7 @@ The Arduino UNO acts as the central processing unit. It receives sensor data, co
 The alert section includes an LED and buzzer. When alcohol levels exceed the threshold, the Arduino sends control signals to activate both devices. The LED provides visual indication, while the buzzer generates an audible warning.
 
 The power supply section ensures stable operation of all components. Together, these modules create a complete embedded alcohol detection system suitable for safety applications.
+
+## Circuit Diagram
+
+![Circuit Diagram](./circuit%20diagram.png)
