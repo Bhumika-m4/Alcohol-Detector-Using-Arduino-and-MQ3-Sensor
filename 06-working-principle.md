@@ -11,3 +11,5 @@ The Arduino compares the digital value with a predefined threshold. If the readi
 If the alcohol concentration exceeds the threshold, the Arduino immediately activates the buzzer and LED. The buzzer produces an audible warning while the LED provides visual indication. Once the alcohol level falls below the threshold, the alerts are automatically deactivated.
 
 This continuous monitoring process ensures reliable and real-time alcohol detection.
+
+![Flowchart](flowchart.png)
