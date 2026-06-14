@@ -7,3 +7,5 @@ The Arduino accurately processed the sensor readings and compared them against t
 The system demonstrated quick response time and reliable operation throughout testing. The sensor readings varied depending on the concentration and distance of the alcohol source, confirming the sensitivity of the MQ3 sensor.
 
 The results validate the effectiveness of the proposed design for applications such as drunk-driving prevention, industrial safety monitoring, and portable alcohol detection systems. The project successfully achieved its intended objectives while maintaining low cost and simple implementation.
+
+![Hardware Output](hardware%20output.png)
